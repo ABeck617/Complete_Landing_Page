@@ -1,6 +1,6 @@
 # Description
 
-This is a basic landing page with HTML and TailwindCSS. 
+This is a basic Product Website with HTML and TailwindCSS. 
 
 
 
@@ -25,10 +25,10 @@ You have TailwindCSS installed
 
 [Documentation](https://dev.to/abeck617/building-a-landing-page-with-html-and-tailwindcss-44o2)
 
-Here is an article on steps I took to build the landing page
+Here is an article on steps I took to build the Product Website
 ## Demo
 
-Here is the link to the landing page
+Here is the link to the Product Website
 
 https://chimerical-pithivier-dbf0f1.netlify.app/
 
