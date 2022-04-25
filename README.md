@@ -1,3 +1,42 @@
+# Description
+
+This is a basic landing page with HTML and TailwindCSS. 
+
+
+
+
+# Prerequisties 
+
+Before you begin, ensure you have met the following requirements:
+
+You have installed the latest version of NodeJS
+
+You have Astro installed
+
+You have TailwindCSS installed 
+## Tech Stack
+
+**Client:** HTML, TailwindCSS
+
+**Server:** Node, Express
+
+
+## Documentation
+
+[Documentation](https://dev.to/abeck617/building-a-landing-page-with-html-and-tailwindcss-44o2)
+
+Here is an article on steps I took to build the landing page
+## Demo
+
+Here is the link to the landing page
+
+https://chimerical-pithivier-dbf0f1.netlify.app/
+
+
+
+## Instructions on how to start with Astro
+
+
 # Astro Starter Kit: Minimal
 
 ```
